@@ -11,10 +11,9 @@
 <!-- Typing animation -->
 <div align="center">
   <a href="https://portfolio-one-green-89.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Data+Science+%26+AI%2FML+Enthusiast+%F0%9F%A4%96;Turning+coffee+into+code+%E2%98%95;Let's+build+something+extraordinary+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00F5A0&center=true&vCenter=true&width=750&lines=Currently+deepening+my+expertise+in+AI%2FML+%F0%9F%A4%96;Freelance+developer+%E2%80%94+helping+small+businesses+build+their+digital+identity+%F0%9F%9A%80;Training+professionals+to+build+AI+assistants+with+Agentic+AI+%F0%9F%A7%A0;Full-stack+web+developer+%E2%80%94+end-to-end+solutions+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
-
 <br/>
 
 <!-- Profile stats badges -->
@@ -237,7 +236,6 @@ const aayush = {
   <img src="https://raw.githubusercontent.com/AayushNeupane1/AayushNeupane1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-> 💡 To enable the snake, create a workflow at `.github/workflows/snake.yml` (setup guide in the notes below).
 
 <br/>
 
@@ -299,10 +297,6 @@ I'm open to **freelance projects**, **internships**, and **full-time opportuniti
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--  QUOTE + FOOTER                                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 
 
