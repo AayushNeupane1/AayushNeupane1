@@ -11,7 +11,7 @@
 <!-- Typing animation -->
 <div align="center">
   <a href="https://portfolio-one-green-89.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00F5A0&center=true&vCenter=true&width=950&lines=Currently+deepening+my+expertise+in+AI%2FML+%F0%9F%A4%96;Freelance+developer+%E2%80%94+helping+small+businesses+build+their+digital+identity+%F0%9F%9A%80;Training+professionals+to+build+AI+assistants+with+Agentic+AI+%F0%9F%A7%A0;Full-stack+web+developer+%E2%80%94+end-to-end+solutions+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00F5A0&center=true&vCenter=true&width=1300&lines=Currently+deepening+my+expertise+in+AI%2FML;Freelance+developer+%E2%80%94+helping+small+businesses+build+their+digital+identity;Training+professionals+to+build+AI+assistants+with+Agentic+AI;Full-stack+web+developer+%E2%80%94+end-to-end+solutions" alt="Typing SVG" />
   </a>
 </div>
 <br/>
